@@ -2,7 +2,8 @@
     "name": "mrc",
     "version": "0.0.1",
     "private": true,
-    "description": "Maintain MRC",    "keywords": [
+    "description": "Maintain MRC",
+    "keywords": [
         "ui5",
         "openui5",
         "sapui5"
